@@ -1,4 +1,4 @@
-// Classe editada por: Neymar
+//Classe editada por: Neymar
 public class App {
 
 	public static void main(String[] args) {
